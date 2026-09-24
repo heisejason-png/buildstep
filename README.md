@@ -55,6 +55,4 @@ application environment will need to stack/packages.txt and stack/prepare. Then 
 You'll then have to re-build.
 
 ## License
-
-MIT
-Created by Jason Scott Heise https://www.facebook.com
+Created by Jason Scott Heise https://www.behance.net
