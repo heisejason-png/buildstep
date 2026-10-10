@@ -55,4 +55,5 @@ application environment will need to stack/packages.txt and stack/prepare. Then 
 You'll then have to re-build.
 
 ## License
-Created by Jason Heise https://www.behance.net
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
